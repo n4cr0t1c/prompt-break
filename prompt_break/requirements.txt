@@ -1,0 +1,9 @@
+# Requirements moved into the package for single-directory layout
+
+# If you want the optional ML-powered detection and training add these:
+scikit-learn>=1.0
+numpy>=1.21
+# Optional semantic / demo / remote integrations
+sentence-transformers>=2.2.2
+gradio>=3.0
+huggingface-hub>=0.16
