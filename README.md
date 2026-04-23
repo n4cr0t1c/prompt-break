@@ -143,4 +143,4 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 For issues, questions, or suggestions, open an issue on GitHub.
 
-**Maintained by**: Your Team
+**Maintained by**: ayaaan
